@@ -78,22 +78,21 @@ header .profile-image:hover {
   transform: scale(1.5) rotate(-7deg);
 }
 .tag {
-  background-color: #efefef;
-  color: black;
-  padding: 10px;
+  background-color: #130f3d;
+  color: rgb(255, 255, 255);
+  padding: 5px;
   border-radius: 5px;
   display: table;
   margin: 10px auto;
 } 
 .location {
-  background-color: #222;
-  color: rgb(250, 244, 178);
+  background-color: #ffffff;
+  color: #130f3d;
 }
 .topic {
   margin: 30px;
   padding: 20px 40px 40px;
   max-width: 500px;
-  min-width: 500px;
   text-align: left;
   background: #fff;
   border-bottom: 4px solid #ccc;
