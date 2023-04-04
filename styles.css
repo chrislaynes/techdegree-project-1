@@ -66,6 +66,7 @@ header {
 header {
   line-height: 1.5;
 }
+
 header .profile-image {
   margin-top: 50px;
   width: 150px;
@@ -100,7 +101,7 @@ header .profile-image:hover {
   transition: all .5s;
 }
 .topic:hover {
-  border-color: #ff99ff;
+  border-color: #b26b00;
 }
 
 .hobbies-img {
