@@ -130,6 +130,10 @@ ul.skills {
   background: #0399ff;
 }
 
+.education {
+  line-height: 1em;
+}
+
 footer {
   width: 100%;
   min-height: 30px;
